@@ -2,3 +2,5 @@
 
 ## Demo
 <video src="https://github.com/Shimemar/RoArm-M3/raw/refs/heads/main/RoArm-M3-pro.mp4" controls width="100%">RoArm-M3</video>
+
+![PXL_20261108_113625095.jpg](PXL_20261108_113625095.jpg)
